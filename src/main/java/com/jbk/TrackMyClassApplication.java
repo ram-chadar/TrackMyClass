@@ -15,7 +15,7 @@ public class TrackMyClassApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TrackMyClassApplication.class, args);
-		logger.info("App Started");
+		logger.info(" my App Started");
 	}
 
 }
